@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Shailesh Kumar</h3>
+          <h3>Designed and Developed by Saurabh Kumar</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SK</h3>
+          <h3>Copyright © {year} Saurabh Kumar</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/Kumarshailesh9"
+                href="https://github.com/saurabhiet2"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="www.linkedin.com/in/shailesh921"
+                href="www.linkedin.com/in/saurabh-kumar-5719a214a"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

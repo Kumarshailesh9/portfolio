@@ -17,7 +17,8 @@ import {
   SiSequelize,
   SiAmazonaws,
   SiGithub,
-  SiNginx
+  SiNginx,
+  SiPython,
 } from "react-icons/si";
 import { FaJenkins } from 'react-icons/fa';
 
@@ -71,6 +72,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <CgCPlusPlus />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPython />
       </Col>
     </Row>
   );
